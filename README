@@ -22,7 +22,6 @@ MakeFile
 analysis.pdf
 mapqueuefix.txt
 README
-Homework Cover Sheet Proj3.pdf
 
 
 This project contains six main programs with many components.
@@ -75,3 +74,5 @@ Description:
 mapqueue is a form of scheduler stimulation where one thread acts as a producer of jobs (creates jobs), and the rest of the thread acts as the consumers of the jobs (takes and does the jobs). mapqueue uses mutex in order to prevent threads from overlapping and having to deal with Race Condition.
 Known issues:
 -None that I know of.
+
+#Additional files were basic approaches or practice code to the full project.
